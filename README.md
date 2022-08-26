@@ -1,7 +1,7 @@
-[![MasterHead](https://www.canva.com/design/DAFKdFcndRs/view)](https://rishavchanda.io)
+[![MasterHead](Margarita Perez.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zakariae Essaiydy</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7SvE.gif">
 
 - 📫 How to reach me **zakaressaiydy@gmail.com**
 
