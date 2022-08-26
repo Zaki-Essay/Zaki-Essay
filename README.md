@@ -1,7 +1,7 @@
 ![](https://github.com/Zaki-Essay/Zaki-Essay/blob/main/Margarita%20Perez.png)
 <h1 align="center">Hi 👋, I'm Zakariae Essaiydy</h1>
 <h3 align="center">Software Engineer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Zaki-Essay/Zaki-Essay/blob/main/7SvE.gif">
 - 📫 How to reach me **zakaressaiydy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
