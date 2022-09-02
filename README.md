@@ -1,4 +1,4 @@
-![](https://github.com/Zaki-Essay/Zaki-Essay/blob/main/Margarita%20Perez.png)
+![](https://github.com/Zaki-Essay/Zaki-Essay/blob/main/Beige%20Illustration%20Welcome%20to%20Computer%20Class%20Google%20Classroom%20Header.png)
 <h1 align="center">Hi 👋, I'm Zakariae Essaiydy</h1>
 <h3 align="center">Software Engineer</h3>
 
