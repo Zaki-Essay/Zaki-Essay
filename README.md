@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [https://ziessaiydy.me/](https://ziessaiydy.me/)
 
+- <a href="https://app.daily.dev/zakariaeessaiydy"><img src="https://api.daily.dev/devcards/v2/czwbQUBIJpYulVWZ5gBdA.png?type=default&r=735" width="356" alt="zakariae essaiydy's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/zakaria-essaiydy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zakaria-essaiydy" height="30" width="40" /></a>
