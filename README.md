@@ -37,4 +37,3 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaki-essay" alt="zaki-essay" /></a> </p>
-<a href="https://app.daily.dev/zakariaeessaiydy"><img src="https://api.daily.dev/devcards/v2/czwbQUBIJpYulVWZ5gBdA.png?type=default&r=735" width="356" alt="zakariae essaiydy's Dev Card"/></a>
